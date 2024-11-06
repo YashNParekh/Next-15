@@ -1,0 +1,6 @@
+-------------------------------
+info: use catch 🔥🔥
+info: suspense 🔥🔥
+todo: this both are use for dynamic api data updating 
+info: url : https://www.youtube.com/watch?v=OWmRn74CQKY
+-------------------------------
